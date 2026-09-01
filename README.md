@@ -1,1 +1,1 @@
-mobile computing lab
+.mobile computing lab
